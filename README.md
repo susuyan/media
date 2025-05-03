@@ -7,4 +7,4 @@ wiki.susuyan/{year}-{month}/{filename}.{suffix}
 ## image url
 https://raw.githubusercontent.com/susuyan/media/main/wiki.susuyan/年-月/文件名.png
 
-[![X]([https://go.nikiv.dev/badge-x](https://img.shields.io/badge/-black?style=flat&logo=X&logoColor=white))](https://x.com/susuyan12)
+
